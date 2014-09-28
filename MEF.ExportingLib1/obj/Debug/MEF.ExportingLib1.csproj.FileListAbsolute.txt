@@ -1,0 +1,7 @@
+C:\Users\Gaurav\documents\visual studio 2012\Projects\MEF\MEF.ExportingLib1\bin\Debug\MEF.ExportingLib1.dll
+C:\Users\Gaurav\documents\visual studio 2012\Projects\MEF\MEF.ExportingLib1\bin\Debug\MEF.ExportingLib1.pdb
+C:\Users\Gaurav\documents\visual studio 2012\Projects\MEF\MEF.ExportingLib1\bin\Debug\MEF.Contract.dll
+C:\Users\Gaurav\documents\visual studio 2012\Projects\MEF\MEF.ExportingLib1\bin\Debug\MEF.Contract.pdb
+C:\Users\Gaurav\documents\visual studio 2012\Projects\MEF\MEF.ExportingLib1\obj\Debug\MEF.ExportingLib1.csprojResolveAssemblyReference.cache
+C:\Users\Gaurav\documents\visual studio 2012\Projects\MEF\MEF.ExportingLib1\obj\Debug\MEF.ExportingLib1.dll
+C:\Users\Gaurav\documents\visual studio 2012\Projects\MEF\MEF.ExportingLib1\obj\Debug\MEF.ExportingLib1.pdb

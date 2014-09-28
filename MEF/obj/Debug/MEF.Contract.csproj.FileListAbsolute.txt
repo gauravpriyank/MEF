@@ -1,0 +1,4 @@
+C:\Users\Gaurav\documents\visual studio 2012\Projects\MEF\MEF\bin\Debug\MEF.Contract.dll
+C:\Users\Gaurav\documents\visual studio 2012\Projects\MEF\MEF\bin\Debug\MEF.Contract.pdb
+C:\Users\Gaurav\documents\visual studio 2012\Projects\MEF\MEF\obj\Debug\MEF.Contract.dll
+C:\Users\Gaurav\documents\visual studio 2012\Projects\MEF\MEF\obj\Debug\MEF.Contract.pdb

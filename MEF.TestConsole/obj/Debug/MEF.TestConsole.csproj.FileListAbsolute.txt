@@ -1,0 +1,10 @@
+C:\Users\Gaurav\documents\visual studio 2012\Projects\MEF\MEF.TestConsole\bin\Debug\MEF.TestConsole.exe.config
+C:\Users\Gaurav\documents\visual studio 2012\Projects\MEF\MEF.TestConsole\bin\Debug\MEF.TestConsole.exe
+C:\Users\Gaurav\documents\visual studio 2012\Projects\MEF\MEF.TestConsole\bin\Debug\MEF.TestConsole.pdb
+C:\Users\Gaurav\documents\visual studio 2012\Projects\MEF\MEF.TestConsole\bin\Debug\MEF.ImportingLib.dll
+C:\Users\Gaurav\documents\visual studio 2012\Projects\MEF\MEF.TestConsole\bin\Debug\MEF.Contract.dll
+C:\Users\Gaurav\documents\visual studio 2012\Projects\MEF\MEF.TestConsole\bin\Debug\MEF.ImportingLib.pdb
+C:\Users\Gaurav\documents\visual studio 2012\Projects\MEF\MEF.TestConsole\bin\Debug\MEF.Contract.pdb
+C:\Users\Gaurav\documents\visual studio 2012\Projects\MEF\MEF.TestConsole\obj\Debug\MEF.TestConsole.csprojResolveAssemblyReference.cache
+C:\Users\Gaurav\documents\visual studio 2012\Projects\MEF\MEF.TestConsole\obj\Debug\MEF.TestConsole.exe
+C:\Users\Gaurav\documents\visual studio 2012\Projects\MEF\MEF.TestConsole\obj\Debug\MEF.TestConsole.pdb
